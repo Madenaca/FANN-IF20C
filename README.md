@@ -14,6 +14,10 @@ tujuan dibuatnya aplikasi ini adalah untuk membantu pemasaran produk dapur kelin
 # Rancangan Aplikasi
 
 
+# usecase Diagram
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/98680144/205102107-b6ca1d27-a4bf-4bd7-a05c-765ffef41b9c.png">
+
+
 # Dokumentasi dengan Mitra
 
 
