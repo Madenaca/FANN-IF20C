@@ -3,12 +3,15 @@
 2. Alifian Akbar - 20312118
 3. Fikih Yuhada Sena - 
 # Latar Belakang
-  Dapur kelinci merupakan toko yang menjual makanan olahan daging kelinci, minuman dan frozen food. Pemasaran dapur kelinci 
+Dapur kelinci merupakan toko yang menjual makanan olahan daging kelinci, minuman dan frozen food. Pemasaran dapur kelinci 
+
+# Permasalahan dalam dapur kelinci
+- belum adanya pemasaran dalam bentuk android
+- masih banyak masyarakat yang belum tahu manfaat pada daging kelinci
+
   
 # Tujuan Aplikasi 
 tujuan dibuatnya aplikasi ini adalah untuk membantu pemasaran produk dapur kelinci  berbentuk aplikasi android
-
-# Solusi
 
 
 # Alur Aplikasi
