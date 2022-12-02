@@ -16,12 +16,11 @@ tujuan dibuatnya aplikasi ini adalah untuk membantu pemasaran produk dapur kelin
 
 # Rancangan Aplikasi
 <img width="566" alt="image" src="Frame 22.png">
-
+<p>berikut adalah link tampilan figmanya : https://www.figma.com/proto/Xk8lfBuN8KJHJEJ9R0RIhP/Untitled?node-id=1%3A82&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A82</p>
 
 
 # usecase Diagram
 <img width="566" alt="image" src="https://user-images.githubusercontent.com/98680144/205102107-b6ca1d27-a4bf-4bd7-a05c-765ffef41b9c.png">
-<p>berikut adalah link tampilan figmanya : https://www.figma.com/proto/Xk8lfBuN8KJHJEJ9R0RIhP/Untitled?node-id=1%3A82&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A82</p>
 
 
 # Dokumentasi dengan Mitra
