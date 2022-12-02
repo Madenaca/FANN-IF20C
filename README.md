@@ -3,7 +3,9 @@
 2. Alifian Akbar - 20312118
 3. Fikih Yuhada Sena - 20312060
 # Latar Belakang
-Dapur kelinci merupakan toko yang menjual makanan olahan daging kelinci, minuman dan frozen food. Pemasaran dapur kelinci 
+Dapur kelinci merupakan toko yang menjual makanan olahan daging kelinci, minuman dan frozen food. berikut produk yang di pasarkan
+![image](https://user-images.githubusercontent.com/98680144/205233525-500f8168-9e07-4971-bbf3-96ab6140060a.png)
+
 
 # Permasalahan dalam dapur kelinci
 - belum adanya pemasaran dalam bentuk android
