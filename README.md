@@ -12,6 +12,8 @@ tujuan dibuatnya aplikasi ini adalah untuk membantu pemasaran produk dapur kelin
 
 
 # Rancangan Aplikasi
+<img width="566" alt="image" src="Frame 22.png">
+
 
 
 # usecase Diagram
