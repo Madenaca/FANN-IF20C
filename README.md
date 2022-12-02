@@ -29,3 +29,5 @@ tujuan dibuatnya aplikasi ini adalah untuk membantu pemasaran produk dapur kelin
 ![WhatsApp Image 2022-12-01 at 21 44 49](https://user-images.githubusercontent.com/98680144/205082497-922c0bb5-e933-4a1e-b368-45bbb70d6fb5.jpeg)
 
 ![WhatsApp Image 2022-12-01 at 21 45 22](https://user-images.githubusercontent.com/98680144/205082537-e1e4cd0c-569b-4018-9070-a1d344470043.jpeg)
+![image](https://user-images.githubusercontent.com/98680144/205233364-e687562d-19aa-45d7-a4eb-b7e4263387a6.png)
+
