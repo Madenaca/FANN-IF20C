@@ -1,7 +1,7 @@
 # FANN-IF20C
 1. I Made Naca Cahyana - 20312143
 2. Alifian Akbar - 20312118
-3. Fikih Yuhada Sena - 
+3. Fikih Yuhada Sena - 20312060
 # Latar Belakang
 Dapur kelinci merupakan toko yang menjual makanan olahan daging kelinci, minuman dan frozen food. Pemasaran dapur kelinci 
 
